@@ -1,0 +1,196 @@
+<mjml>
+  <mj-body
+    background-color="#F4F4F4"
+    color="#55575d"
+    font-family="Arial, sans-serif"
+  >
+    <mj-section
+      background-color="#000000"
+      background-repeat="no-repeat"
+      text-align="center"
+      vertical-align="top"
+    >
+      <mj-column>
+        <mj-image
+          align="center"
+          border="none"
+          padding-bottom="30px"
+          padding="10px 25px"
+          src="https://epicnpc-cdn.com/s3/xf/internal_data/attachments/2198/2198684-3a4cee60a4bc20c86852d40ec7ca6059.png"
+          target="_blank"
+          title=""
+          width="180px"
+        ></mj-image>
+        <mj-text
+          align="left"
+          color="#55575d"
+          font-family="Arial, sans-serif"
+          font-size="13px"
+          line-height="22px"
+          padding-bottom="0px"
+          padding-top="0px"
+          padding="10px 25px"
+        >
+          <p
+            style="
+              line-height: 18px;
+              margin: 10px 0;
+              text-align: center;
+              font-size: 14px;
+              color: #ffffff;
+              font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+            "
+          >
+            Lucas&nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; Amanda&nbsp;
+            &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; Julian
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#000000"
+      background-repeat="no-repeat"
+      text-align="center"
+      vertical-align="top"
+      padding="0 0 0 0"
+    >
+      <mj-column>
+        <mj-image
+          align="center"
+          border="none"
+          padding-bottom="0px"
+          padding-left="0px"
+          padding-right="0px"
+          padding="0px 25px"
+          src="https://media.istockphoto.com/photos/palm-tree-in-beach-in-tropical-island-caribbean-guadalupe-picture-id955765580?k=20&m=955765580&s=170667a&w=0&h=O79NCuZ-Kz1CF7m88QTDBcb-nI3Nh2x3_2-ozg2y1IY="
+          target="_blank"
+          title=""
+          width="780px"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#000000"
+      background-repeat="no-repeat"
+      text-align="center"
+      vertical-align="top"
+      padding="0 0 0 0"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          color="#55575d"
+          font-family="Arial, sans-serif"
+          font-size="13px"
+          line-height="22px"
+          padding-bottom="5px"
+          padding-top="25px"
+          padding="10px 25px"
+        >
+          <p
+            style="
+              line-height: 60px;
+              text-align: center;
+              margin: 10px 0;
+              font-size: 55px;
+              color: #fcfcfc;
+              font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+            "
+          >
+            <b>Portfolio</b>
+          </p>
+        </mj-text>
+        <mj-text
+          align="left"
+          color="#55575d"
+          font-family="Arial, sans-serif"
+          font-size="13px"
+          line-height="22px"
+          padding-bottom="20px"
+          padding-top="0px"
+          padding="10px 25px"
+        >
+          <p
+            style="
+              line-height: 30px;
+              text-align: center;
+              margin: 10px 0;
+              color: #f5f5f5;
+              font-size: 25px;
+              font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+            "
+          >
+            <b>https://juliangrivera.netlify.app/</b><br /><span
+              style="
+                color: #ffffff;
+                font-size: 18px;
+                font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+              "
+              >Projects</span
+            >
+          </p>
+          <b style="text-align: center"
+            >https://scintillating-blancmange-d927b0.netlify.app/</b
+          ><br />
+          <b style="text-align: center"
+            >https://fitnessaapp.herokuapp.com/home</b
+          ><br />
+          <b style="text-align: center"
+            >https://juliangabrielrivera.github.io/SpaceBetween/</b
+          ><br />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="#000000"
+      background-repeat="no-repeat"
+      text-align="center"
+      vertical-align="top"
+      padding-bottom="40px"
+      padding="0 0 0 0"
+    >
+      <mj-column>
+        <mj-button
+          background-color="#ffffff"
+          border-radius="3px"
+          font-family="Times New Roman, Helvetica, Arial, sans-serif"
+          font-size="18px"
+          font-weight="normal"
+          inner-padding="10px 25px"
+          padding-bottom="30px"
+          padding="10px 25px"
+          ><span style="color: #212020">Hire Now</span></mj-button
+        >
+        <mj-text
+          align="left"
+          color="#55575d"
+          font-family="Arial, sans-serif"
+          font-size="13px"
+          line-height="22px"
+          padding-bottom="0px"
+          padding-top="5px"
+          padding="10px 25px"
+        >
+          <p
+            style="
+              line-height: 16px;
+              text-align: center;
+              margin: 10px 0;
+              font-size: 12px;
+              color: #ffffff;
+              font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+            "
+          >
+            * Offer valid on till June 1, 2022, 11:59 pm. &nbsp;<br /><span
+              style="
+                color: #ffffff;
+                font-family: 'Times New Roman', Helvetica, Arial, sans-serif;
+              "
+              >100k no less</span
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
